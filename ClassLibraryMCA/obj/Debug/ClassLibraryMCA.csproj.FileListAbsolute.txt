@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\C# Assignment\ClassLibraryMCA\bin\Debug\ClassLibraryMCA.dll
+C:\Users\Lenovo\Desktop\C# Assignment\ClassLibraryMCA\bin\Debug\ClassLibraryMCA.pdb
+C:\Users\Lenovo\Desktop\C# Assignment\ClassLibraryMCA\obj\Debug\ClassLibraryMCA.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# Assignment\ClassLibraryMCA\obj\Debug\ClassLibraryMCA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# Assignment\ClassLibraryMCA\obj\Debug\ClassLibraryMCA.dll
+C:\Users\Lenovo\Desktop\C# Assignment\ClassLibraryMCA\obj\Debug\ClassLibraryMCA.pdb
