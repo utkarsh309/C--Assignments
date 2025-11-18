@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\C# Assignment\Attributes\bin\Release\Attributes.exe.config
+C:\Users\Lenovo\Desktop\C# Assignment\Attributes\bin\Release\Attributes.exe
+C:\Users\Lenovo\Desktop\C# Assignment\Attributes\bin\Release\Attributes.pdb
+C:\Users\Lenovo\Desktop\C# Assignment\Attributes\obj\Release\Attributes.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# Assignment\Attributes\obj\Release\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# Assignment\Attributes\obj\Release\Attributes.exe
+C:\Users\Lenovo\Desktop\C# Assignment\Attributes\obj\Release\Attributes.pdb
